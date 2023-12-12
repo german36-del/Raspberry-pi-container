@@ -1,0 +1,5 @@
+ezpip
+ezpip\_develop_dummy_module
+ezpip\parts
+ezpip\parts\import_test_field
+ezpip\parts\import_test_field\hoge_module
